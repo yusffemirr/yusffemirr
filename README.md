@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+my name Yusuf Emir Güngör 
+I am a mechatronics student studying at Gelişim University.
 <!--
 **yusffemirr/yusffemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
